@@ -1,2 +1,3 @@
 #!/usr/bin/python
-print("helloworld")
+print("hello world")
+print("bye")
